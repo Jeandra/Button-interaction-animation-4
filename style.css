@@ -43,7 +43,7 @@
 
 .btn:focus .icon {
     opacity: 2;
-    font-size: 15px;
+    font-size: 20px;
     transition-delay: .5s;
 }
 
